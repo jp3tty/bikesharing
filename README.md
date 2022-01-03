@@ -17,3 +17,7 @@
 
 
 ## Summary
+
+## Tableau Public Link
+[Link to the dashboard](https://public.tableau.com/app/profile/jeremy3008/viz/NYCBikeshareChallenge_16411709534240/UserTripsbyGenderbyWeekday)
+
