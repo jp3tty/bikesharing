@@ -5,15 +5,22 @@ This analysis provides a foundation to a business case for a bike-sharing progra
 
 ## Results
 
+![Breakdown]()
+
 ### Checkout Times for Users
+![CheckoutByUsers]()
 
 ### Checkout Times by Gender
+![CheckoutByGender]()
 
 ### Trips by Weekday For Each Hour
+![TripsByWeekdayForEachHour]()
 
 ### Trips by Gender (Weekday Per Hour)
+![TripsByGenderPerHour]()
 
 ### Trips for Customers Compared to Subscribers (by Gender)
+![TripsForCustomerComparedToSubscribers]()
 
 
 ## Summary
