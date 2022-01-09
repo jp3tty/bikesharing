@@ -3,7 +3,7 @@
 ## Overview
 For this project, NYC "Citi Bike" data is used as a business case to demonstrate that a bike sharing business can be viable in large urban environments.
 
-Visualizations, generated in Tableau, Are used in a Tableau Data Story ([Link to Tableau Data Story.](https://public.tableau.com/app/profile/jeremy3008/viz/NYCBikeshareChallenge_16411709534240/NYCStory)).
+Visualizations are used in a Tableau Data Story ([Link to Tableau Data Story.](https://public.tableau.com/app/profile/jeremy3008/viz/NYCBikeshareChallenge_16411709534240/NYCStory)) to show the Citi Bikes rider breakdown. 
 
 
 ## Results
@@ -28,7 +28,5 @@ Visualizations, generated in Tableau, Are used in a Tableau Data Story ([Link to
 
 ## Summary
 Based on the data Citi Bike is a viable business because NYC subscribers use the transportation service more than the general customers. Assuming that there are less general customers (tourists) in Des Moines, Citi Bikes should do well in a place that has less general customers.  
-
-## Tableau Public Link
 
 
