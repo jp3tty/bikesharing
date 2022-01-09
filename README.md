@@ -1,7 +1,10 @@
 # Bike Sharing Proposal for Des Moines
 
 ## Overview
-This analysis provides a foundation to a business case for a bike-sharing program in Des Moines. To drum up interest 
+For this project, NYC "Citi Bike" data is used as a business case to demonstrate that a bike sharing business can be viable in large urban environments.
+
+Visualizations, generated in Tableau, Are used in a Tableau Data Story ([Link to Tableau Data Story.](https://public.tableau.com/app/profile/jeremy3008/viz/NYCBikeshareChallenge_16411709534240/NYCStory)).
+
 
 ## Results
 
@@ -27,5 +30,5 @@ This analysis provides a foundation to a business case for a bike-sharing progra
 Based on the data Citi Bike is a viable business because NYC subscribers use the transportation service more than the general customers. Assuming that there are less general customers (tourists) in Des Moines, Citi Bikes should do well in a place that has less general customers.  
 
 ## Tableau Public Link
-[Link to Tableau Data Story.](https://public.tableau.com/app/profile/jeremy3008/viz/NYCBikeshareChallenge_16411709534240/NYCStory)
+
 
