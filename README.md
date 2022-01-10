@@ -42,6 +42,6 @@ This heat map shows that Male Subscribers make up the majority of riders, and th
 
 
 ## Summary
-Based on the data Citi Bike is a viable business because NYC subscribers use the transportation service more than the general customers. Assuming that there are less general customers (tourists) in Des Moines, Citi Bikes should do well in a place that has less general customers.  
+Based on the data, Citi Bike's bike share is a viable business in NYC because the "Subscribers" make up a bulk of the sevices ridership. The same could be said for a Citi Bike bike share in Des Moines.
 
-
+In order to make a stronger case for dispatching a bike share service in Des Moines, a comparison on each cities demographics is required. 
