@@ -3,11 +3,11 @@
 ## Overview
 For this project, NYC "Citi Bike" data is used as a business case to demonstrate that a bike sharing business can be viable in large urban environments.
 
-Visualizations are used in a Tableau Data Story ([Link to Tableau Data Story.](https://public.tableau.com/app/profile/jeremy3008/viz/NYCBikeshareChallenge_16411709534240/NYCStory)) to show the Citi Bikes rider breakdown. 
+Data visualizations are used in a Tableau Data Story ([Tableau Data Story](https://public.tableau.com/app/profile/jeremy3008/viz/NYCBikeshareChallenge_16411709534240/NYCStory)) to show Citi Bike's rider breakdown, view their bike usage, and compare their "Customer" and "Subscriber" users.
 
 
 ## Results
-
+Inspection of the data reveals that over 2 million rides occured in August of 2019
 ![Breakdown](https://github.com/jp3tty/bikesharing/blob/main/Images/Breakdown.PNG)
 
 ### Checkout Times for Users
