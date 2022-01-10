@@ -27,6 +27,7 @@ This heat map breaks down the ridership based on based on gender. I appears that
 ![TripsByGenderPerHour](https://github.com/jp3tty/bikesharing/blob/main/Images/TripsByGenderPerHour.PNG)
 
 ### Trips for Customers Compared to Subscribers (by Gender)
+This heat map shows that Male Subscribers make up the majority of riders, and they ride primarily on the weekdays (Monday through Friday).
 ![TripsForCustomerComparedToSubscribers](https://github.com/jp3tty/bikesharing/blob/main/Images/TripsForCustomerComparedToSubscribers.PNG)
 
 
